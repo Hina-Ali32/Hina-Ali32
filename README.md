@@ -1,7 +1,7 @@
 <div align="center">
   <img src="[Link to a cool, professional banner image or your profile pic]" width="200">
   <h1>👋 Hi, I'm Hina Ali</h1>
-  <h3>BS Computer Science Student | web , software, analytics</h3>
+  <h3>Code. Design. Deploy. | CS Student & Developer|Creating digital solutions that actually work</h3>
   
   <p>
     🌱 I’m currently diving deep into <strong>Full-Stack Web Development</strong> and <strong>AI Integration</strong><br>
@@ -12,29 +12,26 @@
 </div>
 
 ---
+### 🛠️ Tech Stack & Skills
 
-### 🛠️ Tech Stack & Tools
-Here are some of the technologies I work with:
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"> |
+| HTML5 | CSS3 | JavaScript |
+| 90% | 85% | 75% |
 
----
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"> |
+| PHP | MySQL | React Native |
+| 70% | 80% | 65% |
 
-### 📌 My Best Projects
-Here are the projects I'm most proud of. Click on them to see the code and live demos!
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"> |
+| Photoshop | Git | VS Code |
+| 70% | 60% | 90% |
 
-| Project | Description | Key Tech |
-| :--- | :--- | :--- |
-| **⚡ Electricity Billing System** | A web system for utility operators and consumers to manage accounts, readings, and bills. | `PHP`, `MySQL`, `HTML/CSS` |
-| **📱 Event Management System** | A cross-platform mobile app to manage events end-to-end with a real-time backend. | `React Native`, `Supabase` |
-| **🏙️ CivicConnect** | A complaint management platform for citizens to report and track civic issues. | `PHP`, `MySQL`, `JavaScript` |
+</div>
+
+
 
 
